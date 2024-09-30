@@ -6,6 +6,8 @@ Hello, my name is Gage and I'm a full-stack developer always looking to learn mo
 
 Please DM me on Discord @xgage if you need a developer for a project!
 
+(Don't believe my stats, I have a lot of private repos!)
+
 ### Development Skills
 
 ![Skill Icons](https://skillicons.dev/icons?i=rust,js,react,ts,py,nodejs,html,css,sqlite,mysql,java,docker,cpp,bash)
